@@ -91,9 +91,10 @@ COUNTROWS (
 
 # Calculando Ano Fiscal
 
-A empresa NutriFoods trabalha com:
+A empresa trabalha com:
 * Ano Fiscal iniciando em JUlho
-| Período             | Ano Fiscal |
+
+| Período           | Ano Fiscal |
 | ------------------- | ---------- |
 | Jul/2024 – Jun/2025 | 2025       |
 | Jul/2025 – Jun/2026 | 2026       |
